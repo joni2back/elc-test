@@ -1,0 +1,208 @@
+:::: Log File ::::
+
+
+[9/3/2021 -- 3:14]  Info task started
+[9/3/2021 -- 3:16]  Info task started
+[9/3/2021 -- 3:16]  Scripts ran on main.js
+[9/3/2021 -- 3:16]  Scripts ran on main.js
+[9/3/2021 -- 3:17]  Scripts ran on main.js
+[9/3/2021 -- 3:17]  Scripts ran on main.js
+[9/3/2021 -- 3:17]  Scripts ran on main.js
+[9/3/2021 -- 3:18]  Scripts ran on main.js
+[9/3/2021 -- 3:19]  Scripts ran on main.js
+[9/3/2021 -- 3:19]  Scripts ran on main.js
+[9/3/2021 -- 3:20]  Scripts ran on main.js
+[9/3/2021 -- 3:21]  Scripts ran on main.js
+[9/3/2021 -- 3:21]  Scripts ran on main.js
+[9/3/2021 -- 3:21]  Scripts ran on main.js
+[9/3/2021 -- 3:21]  Scripts ran on main.js
+[9/3/2021 -- 3:22]  Scripts ran on main.js
+[9/3/2021 -- 3:22]  Scripts ran on main.js
+[9/3/2021 -- 3:23]  Scripts ran on main.js
+[9/3/2021 -- 3:23]  Scripts ran on main.js
+[9/3/2021 -- 3:23]  Scripts ran on main.js
+[9/3/2021 -- 3:24]  Scripts ran on main.js
+[9/3/2021 -- 13:8]  Scripts ran on main.js
+[9/3/2021 -- 13:9]  Sass ran on files
+[9/3/2021 -- 13:9]  Sass ran on files
+[9/3/2021 -- 13:10]  Sass ran on files
+[9/3/2021 -- 13:10]  Sass ran on files
+[9/3/2021 -- 13:10]  Sass ran on files
+[9/3/2021 -- 13:10]  Sass ran on files
+[9/3/2021 -- 13:10]  Sass ran on files
+[9/3/2021 -- 13:11]  Sass ran on files
+[9/3/2021 -- 13:11]  Sass ran on files
+[9/3/2021 -- 13:11]  Sass ran on files
+[9/3/2021 -- 13:11]  Sass ran on files
+[9/3/2021 -- 13:11]  Sass ran on files
+[9/3/2021 -- 13:11]  Sass ran on files
+[9/3/2021 -- 13:11]  Sass ran on files
+[9/3/2021 -- 13:11]  Sass ran on files
+[9/3/2021 -- 13:11]  Sass ran on files
+[9/3/2021 -- 13:11]  Sass ran on files
+[9/3/2021 -- 13:12]  Sass ran on files
+[9/3/2021 -- 13:13]  Sass ran on files
+[9/3/2021 -- 13:13]  Sass ran on files
+[9/3/2021 -- 13:13]  Scripts ran on main.js
+[9/3/2021 -- 13:14]  Sass ran on files
+[9/3/2021 -- 13:14]  Sass ran on files
+[9/3/2021 -- 13:15]  Sass ran on files
+[9/3/2021 -- 13:16]  Sass ran on files
+[9/3/2021 -- 13:16]  Sass ran on files
+[9/3/2021 -- 13:18]  Scripts ran on main.js
+[9/3/2021 -- 13:18]  Scripts ran on main.js
+[9/3/2021 -- 13:18]  Sass ran on files
+[9/3/2021 -- 13:19]  Scripts ran on main.js
+[9/3/2021 -- 13:19]  Scripts ran on main.js
+[9/3/2021 -- 13:20]  Scripts ran on main.js
+[9/3/2021 -- 13:20]  Scripts ran on main.js
+[9/3/2021 -- 13:23]  Info task started
+[9/3/2021 -- 13:23]  Sass ran on files
+[9/3/2021 -- 13:23]  Sass ran on files
+[9/3/2021 -- 13:23]  Sass ran on files
+[9/3/2021 -- 13:23]  Sass ran on files
+[9/3/2021 -- 13:26]  restarted!
+[9/3/2021 -- 13:26]  restarted!
+[9/3/2021 -- 13:26]  restarted!
+[9/3/2021 -- 13:27]  restarted!
+[9/3/2021 -- 13:27]  restarted!
+[9/3/2021 -- 13:27]  restarted!
+[9/3/2021 -- 13:29]  restarted!
+[9/3/2021 -- 13:29]  restarted!
+[9/3/2021 -- 13:29]  restarted!
+[9/3/2021 -- 13:29]  restarted!
+[9/3/2021 -- 13:30]  restarted!
+[9/3/2021 -- 13:31]  restarted!
+[9/3/2021 -- 13:31]  restarted!
+[9/3/2021 -- 13:33]  restarted!
+[9/3/2021 -- 13:33]  restarted!
+[9/3/2021 -- 13:34]  restarted!
+[9/3/2021 -- 13:34]  restarted!
+[9/3/2021 -- 13:34]  restarted!
+[9/3/2021 -- 13:34]  restarted!
+[9/3/2021 -- 13:34]  restarted!
+[9/3/2021 -- 13:35]  restarted!
+[9/3/2021 -- 13:35]  restarted!
+[9/3/2021 -- 13:35]  restarted!
+[9/3/2021 -- 13:36]  restarted!
+[9/3/2021 -- 13:36]  restarted!
+[9/3/2021 -- 13:36]  restarted!
+[9/3/2021 -- 13:36]  restarted!
+[9/3/2021 -- 13:36]  restarted!
+[9/3/2021 -- 13:36]  restarted!
+[9/3/2021 -- 13:36]  restarted!
+[9/3/2021 -- 13:37]  restarted!
+[9/3/2021 -- 13:37]  restarted!
+[9/3/2021 -- 13:38]  restarted!
+[9/3/2021 -- 13:38]  restarted!
+[9/3/2021 -- 13:39]  restarted!
+[9/3/2021 -- 13:39]  restarted!
+[9/3/2021 -- 13:39]  restarted!
+[9/3/2021 -- 13:40]  restarted!
+[9/3/2021 -- 13:42]  restarted!
+[9/3/2021 -- 13:43]  restarted!
+[9/3/2021 -- 13:43]  restarted!
+[9/3/2021 -- 13:43]  restarted!
+[9/3/2021 -- 13:43]  restarted!
+[9/3/2021 -- 13:44]  restarted!
+[9/3/2021 -- 13:44]  restarted!
+[9/3/2021 -- 13:44]  restarted!
+[9/3/2021 -- 13:44]  restarted!
+[9/3/2021 -- 13:49]  restarted!
+[9/3/2021 -- 13:49]  restarted!
+[9/3/2021 -- 13:49]  restarted!
+[9/3/2021 -- 13:50]  restarted!
+[9/3/2021 -- 13:50]  restarted!
+[9/3/2021 -- 13:50]  restarted!
+[9/3/2021 -- 13:50]  restarted!
+[9/3/2021 -- 13:51]  restarted!
+[9/3/2021 -- 13:57]  restarted!
+[9/3/2021 -- 13:57]  restarted!
+[9/3/2021 -- 13:57]  restarted!
+[9/3/2021 -- 13:57]  restarted!
+[9/3/2021 -- 13:58]  restarted!
+[9/3/2021 -- 13:58]  restarted!
+[9/3/2021 -- 13:58]  restarted!
+[9/3/2021 -- 13:58]  restarted!
+[9/3/2021 -- 13:58]  restarted!
+[9/3/2021 -- 13:58]  restarted!
+[9/3/2021 -- 14:0]  restarted!
+[9/3/2021 -- 14:0]  restarted!
+[9/3/2021 -- 14:0]  restarted!
+[9/3/2021 -- 14:4]  Scripts ran on main.js
+[9/3/2021 -- 14:9]  Scripts ran on main.js
+[9/3/2021 -- 14:9]  Scripts ran on main.js
+[9/3/2021 -- 14:10]  Scripts ran on main.js
+[9/3/2021 -- 14:12]  Scripts ran on main.js
+[9/3/2021 -- 14:12]  Scripts ran on main.js
+[9/3/2021 -- 14:12]  Info task started
+[9/3/2021 -- 14:14]  restarted!
+[9/3/2021 -- 14:14]  restarted!
+[9/3/2021 -- 14:15]  Scripts ran on main.js
+[9/3/2021 -- 14:16]  Scripts ran on main.js
+[9/3/2021 -- 14:17]  Scripts ran on main.js
+[9/3/2021 -- 14:17]  Scripts ran on main.js
+[9/3/2021 -- 14:18]  Sass ran on files
+[9/3/2021 -- 14:18]  Sass ran on files
+[9/3/2021 -- 14:18]  Sass ran on files
+[9/3/2021 -- 14:19]  Sass ran on files
+[9/3/2021 -- 14:19]  Sass ran on files
+[9/3/2021 -- 14:19]  Sass ran on files
+[9/3/2021 -- 14:19]  Sass ran on files
+[9/3/2021 -- 14:19]  Sass ran on files
+[9/3/2021 -- 14:19]  Sass ran on files
+[9/3/2021 -- 14:20]  Sass ran on files
+[9/3/2021 -- 14:20]  Sass ran on files
+[9/3/2021 -- 14:20]  Sass ran on files
+[9/3/2021 -- 14:21]  restarted!
+[9/3/2021 -- 14:21]  restarted!
+[9/3/2021 -- 14:22]  restarted!
+[9/3/2021 -- 14:22]  restarted!
+[9/3/2021 -- 14:23]  restarted!
+[9/3/2021 -- 14:23]  restarted!
+[9/3/2021 -- 14:23]  restarted!
+[9/3/2021 -- 14:24]  Sass ran on files
+[9/3/2021 -- 14:24]  Sass ran on files
+[9/3/2021 -- 14:24]  Sass ran on files
+[9/3/2021 -- 14:24]  Sass ran on files
+[9/3/2021 -- 14:24]  Sass ran on files
+[9/3/2021 -- 14:24]  Sass ran on files
+[9/3/2021 -- 14:47]  Info task started
+[9/3/2021 -- 14:51]  Info task started
+[9/3/2021 -- 14:52]  Info task started
+[9/3/2021 -- 14:54]  Scripts ran on main.js
+[9/3/2021 -- 14:54]  Scripts ran on main.js
+[9/3/2021 -- 14:54]  Scripts ran on main.js
+[9/3/2021 -- 14:54]  Scripts ran on main.js
+[9/3/2021 -- 14:55]  Sass ran on files
+[9/3/2021 -- 14:55]  Sass ran on files
+[9/3/2021 -- 14:55]  Sass ran on files
+[9/3/2021 -- 14:55]  Sass ran on files
+[9/3/2021 -- 14:56]  Sass ran on files
+[9/3/2021 -- 14:57]  Sass ran on files
+[9/3/2021 -- 14:57]  Sass ran on files
+[9/3/2021 -- 14:58]  Sass ran on files
+[9/3/2021 -- 14:58]  Sass ran on files
+[9/3/2021 -- 14:58]  Sass ran on files
+[9/3/2021 -- 14:58]  Sass ran on files
+[9/3/2021 -- 14:58]  Scripts ran on main.js
+[9/3/2021 -- 14:59]  Scripts ran on main.js
+[9/3/2021 -- 14:59]  Scripts ran on main.js
+[9/3/2021 -- 14:59]  Scripts ran on main.js
+[9/3/2021 -- 15:1]  Scripts ran on main.js
+[9/3/2021 -- 15:1]  Scripts ran on main.js
+[9/3/2021 -- 15:2]  Scripts ran on main.js
+[9/3/2021 -- 15:2]  Scripts ran on main.js
+[9/3/2021 -- 15:3]  Scripts ran on main.js
+[9/3/2021 -- 15:3]  Scripts ran on main.js
+[9/3/2021 -- 15:4]  Scripts ran on main.js
+[9/3/2021 -- 15:4]  Scripts ran on main.js
+[9/3/2021 -- 15:5]  Scripts ran on main.js
+[9/3/2021 -- 15:5]  Scripts ran on main.js
+[9/3/2021 -- 15:5]  Sass ran on files
+[9/3/2021 -- 15:11]  Sass ran on files
+[9/3/2021 -- 15:12]  Scripts ran on main.js
+[9/3/2021 -- 15:13]  Scripts ran on main.js
+[9/3/2021 -- 15:13]  Scripts ran on main.js
+[9/3/2021 -- 15:14]  Scripts ran on main.js
+[9/3/2021 -- 15:14]  Scripts ran on main.js
